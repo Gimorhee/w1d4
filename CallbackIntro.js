@@ -10,7 +10,7 @@
 // function actionWhenFound(i) {
 //   console.log("Found Waldo at index: " + i);
 // }
-
+//test
 // findWaldo(["Alice", "Bob", "Waldo", "Winston"], actionWhenFound);
 
 
