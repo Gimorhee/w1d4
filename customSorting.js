@@ -5,3 +5,4 @@ function sortNumber(a,b) {
 }
 
 console.log(array.sort(sortNumber));
+
